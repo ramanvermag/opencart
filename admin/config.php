@@ -1,18 +1,18 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/uncannabis/admin/');
-define('HTTP_CATALOG', 'http://localhost/uncannabis/');
+define('HTTP_SERVER', 'http://localhost/opencart/admin/');
+define('HTTP_CATALOG', 'http://localhost/opencart/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/uncannabis/admin/');
-define('HTTPS_CATALOG', 'http://localhost/uncannabis/');
+define('HTTPS_SERVER', 'http://localhost/opencart/admin/');
+define('HTTPS_CATALOG', 'http://localhost/opencart/');
 
 // DIR
-define('DIR_APPLICATION', 'C:/laragon/www/uncannabis/admin/');
-define('DIR_SYSTEM', 'C:/laragon/www/uncannabis/system/');
-define('DIR_IMAGE', 'C:/laragon/www/uncannabis/image/');
+define('DIR_APPLICATION', 'C:/laragon/www/opencart/admin/');
+define('DIR_SYSTEM', 'C:/laragon/www/opencart/system/');
+define('DIR_IMAGE', 'C:/laragon/www/opencart/image/');
 define('DIR_STORAGE', 'C:/laragon/storage/');
-define('DIR_CATALOG', 'C:/laragon/www/uncannabis/catalog/');
+define('DIR_CATALOG', 'C:/laragon/www/opencart/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
